@@ -20,7 +20,7 @@ With zkTLS, users stay in control of their data, while projects can onboard **re
 
 ***
 
-### zkTLS at zkBring
+### zkTLS verification at zkBring
 
 zkBring uses [**zkPass**](https://zkpass.org/) to power zkTLS verification.\
 zkPass pioneered the concept of **zkTLS Webproofs**—a system that allows users to generate cryptographic proofs from any HTTPS website without exposing private information.
@@ -48,13 +48,9 @@ This system lets zkBring support rich, flexible eligibility logic like:
 
 ***
 
-### Learn more about zkTLS
+### Learn more
 
-* 🚀 [Crypto’s AirTag Moment: Unlocking Mass Adoption with Web Proofs (Nascent)](https://nascent.xyz/posts/web-proofs)
-* 📖 [zkPass Technical Overview](https://zkpass.gitbook.io/zkpass/overview/technical-overview-v2.0)
-* 🔬 [zkTLS Protocol Overview by zkPass](https://zkpass.gitbook.io/zkpass/overview/what-is-zktls)
-* 📝 [Proving new worlds with zkTLS (Telah VC)](https://www.telah.vc/articles/proving-new-worlds-with-zktls)
-* 🌐 [zkTLS: Building A Verifiable and Private Web (Oasis Protocol Blog)](https://oasisprotocol.org/blog/zktls-building-a-verifiable-and-private-web)
-* 📌 [What is zkTLS? A Complete Guide to the Tech (Blocmates)](https://blocmates.com/blogmates/what-is-zktls-guide/)
-* 🔑 [zkTLS Crypto Use Cases: Securing Decentralized Transactions (ZKON)](https://zkon.com/blog/zktls-crypto-use-cases)
-* 💡 [Why zkTLS is an opportunity now (Mechanism Capital on ChainCatcher)](https://chaincatcher.com/zk-tls-opportunity-now/)
+* [Crypto’s AirTag Moment: Unlocking Mass Adoption with Web Proofs (Nascent)](https://www.nascent.xyz/idea/cryptos-airtag-moment)
+* [zkPass Technical Overview](https://zkpass.gitbook.io/zkpass/overview/technical-overview-v2.0)
+* [Proving new worlds with zkTLS (Telah VC)](https://telah.vc/zktls)
+* [Why zkTLS is an opportunity now (Mechanism Capital on ChainCatcher)](https://www.chaincatcher.com/en/article/2147794)
