@@ -20,9 +20,9 @@ With zkTLS, users stay in control of their data, while projects can onboard **re
 
 ***
 
-### zkTLS Integration in zkBring
+### zkTLS at zkBring
 
-zkBring uses [**zkPass**](https://zkpass.org/) as the zkTLS infrastructure layer.\
+zkBring uses [**zkPass**](https://zkpass.org/) to power zkTLS verification.\
 zkPass pioneered the concept of **zkTLS Webproofs**—a system that allows users to generate cryptographic proofs from any HTTPS website without exposing private information.
 
 When a user begins verification:
@@ -50,10 +50,11 @@ This system lets zkBring support rich, flexible eligibility logic like:
 
 ### Learn more about zkTLS
 
+* 🚀 [Crypto’s AirTag Moment: Unlocking Mass Adoption with Web Proofs (Nascent)](https://nascent.xyz/posts/web-proofs)
 * 📖 [zkPass Technical Overview](https://zkpass.gitbook.io/zkpass/overview/technical-overview-v2.0)
 * 🔬 [zkTLS Protocol Overview by zkPass](https://zkpass.gitbook.io/zkpass/overview/what-is-zktls)
-* 🧠 [Intro to Zero-Knowledge Proofs by Vitalik](https://vitalik.ca/general/2022/12/17/zkp.html)
-
-***
-
-📚 Next: [How to Verify via zkTLS →](https://chatgpt.com/verify-data-via-zktls.md)
+* 📝 [Proving new worlds with zkTLS (Telah VC)](https://www.telah.vc/articles/proving-new-worlds-with-zktls)
+* 🌐 [zkTLS: Building A Verifiable and Private Web (Oasis Protocol Blog)](https://oasisprotocol.org/blog/zktls-building-a-verifiable-and-private-web)
+* 📌 [What is zkTLS? A Complete Guide to the Tech (Blocmates)](https://blocmates.com/blogmates/what-is-zktls-guide/)
+* 🔑 [zkTLS Crypto Use Cases: Securing Decentralized Transactions (ZKON)](https://zkon.com/blog/zktls-crypto-use-cases)
+* 💡 [Why zkTLS is an opportunity now (Mechanism Capital on ChainCatcher)](https://chaincatcher.com/zk-tls-opportunity-now/)
