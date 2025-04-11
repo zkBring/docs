@@ -1,4 +1,5 @@
 # Table of contents
 
-* [1. Introduction](README.md)
+* [docs](README.md)
 * [Introduction](introduction.md)
+* [What is zkTLS?](what-is-zktls.md)
